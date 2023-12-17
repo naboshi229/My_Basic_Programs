@@ -4,4 +4,4 @@ people = int(input("How many people to split the bill? "))
 percentage /= 100
 tip = bill * (1 + percentage)
 result = tip / people
-print(f'Each person should pay: ${round(result, 2)}')
+print(f'Each person should pay: ${"{:.2f}".format(result)}')
