@@ -1,3 +1,2 @@
-# Bill-Calculator
-"Bill Calculator" that calculates a bill increased by percentage of a tip and splits between "x" number of people
-This is one of my first small programs that I wrote in python! :>
+# My Basic Programs - Python
+This is a repository were I store all of my basic programs using python language.
