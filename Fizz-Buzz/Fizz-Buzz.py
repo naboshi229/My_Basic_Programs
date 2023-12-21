@@ -1,7 +1,14 @@
 when_the = "When the number is divisible by "
 program_prints = " then program prints "
-rules = ('Welcome to the FizzBuzz game!!!\nRules are simple:\n*' + when_the + '"3"' + program_prints + '"Fizz";\n*' + when_the + '"5"' + program_prints + '"Buzz";\n*' + when_the + '"3 and 5"' + program_prints + '"FizzBuzz".')
-print(rules)
+print('Welcome to the FizzBuzz game!!!\nRules are simple:\n*' 
+         + when_the 
+         + '"3"' + program_prints 
+         + '"Fizz";\n*' + when_the 
+         + '"5"' + program_prints 
+         + '"Buzz";\n*' + when_the 
+         + '"3 and 5"' 
+         + program_prints 
+         + '"FizzBuzz".')
 while True:
     try:
         target = int(input('Please type a number that is higher than "0" and "is whole (without any fractions) and positive":\n'))
