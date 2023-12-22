@@ -1,6 +1,6 @@
 import random
-from hangman_art import logo, stages
-from hangman_words import word_list
+from Hangman_Art import logo, stages
+from Hangman_Words import word_list
 
 chosen_word = random.choice(word_list)
 display = []
