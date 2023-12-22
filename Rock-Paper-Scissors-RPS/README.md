@@ -2,7 +2,7 @@
 ## Descritiopn
 - Short an easy game of rock, paper and sicssors that I think everybody knows.
 - This was my first time using modules. I divided my program into two files: main.py (which has all the lines of my code, I mean game) and ASCII_rps.py (which stores all of the ASCII character type of images, for rock, paper and sicissors).
-## What it does inclueds?:
+## What it does/inclueds?:
 - It contains random intiger (short for int) number generator (I imported here random module).
 - Program also checks user input in two while loops.
 - "Try" block in the first while loop checks if user typed intiger number (short for int) if not it asks them to type their input again expecting type of error "Value Error".
