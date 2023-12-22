@@ -2,7 +2,7 @@
 ## Description
 This is a game where user needs to guess letter by letter randomly generatedwords by program from Hangman_Words.py file.
 ## Flow Chart for this game
-/Hangman/Hangman-Flow-Chart.png/
+/[Hangman/Hangman-Flow-Chart.png](https://github.com/naboshi229/My_Basic_Programs/blob/main/Hangman/Hangman-Flow-Chart.png)/
 ## How my hangman game works line by line
 - Firstly I imported module random, then logo and stage (from Hangman_Art.py file) and world_list from (Hangman_Words.py file).
 - chosen_word stores randomly chose by program variable from list word_list (Hangman_Words.py file).
