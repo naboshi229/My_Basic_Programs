@@ -1,6 +1,6 @@
 # Hangman
 ## Description
-This a game where user needs to guess letter by letter randomly generatedwords by program from Hangman_Words.py file.
+This is a game where user needs to guess letter by letter randomly generatedwords by program from Hangman_Words.py file.
 ## Flow Chart for this game
 (https://github.com/naboshi229/My_Basic_Programs/assets/152152030/e6cfb06c-b655-41e1-97dd-02987c322a7a)
 ## How my hangman game works line by line
