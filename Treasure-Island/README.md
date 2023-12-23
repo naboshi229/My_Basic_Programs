@@ -5,4 +5,3 @@
 - I also used for the first time python's escape characters which allowed me to use "You're" in a sentence.
 ## Quick note
 Treasure-Island.py is the only file you need in order for my program to work.
-### That's it, really! It's not that complicated :D
