@@ -4,8 +4,7 @@ This is a game where user needs to guess letter by letter randomly generatedword
 ## Quick note
 - Hangman.py
 - Hangman_Art.py
-- Hangman_Words.py
-\nare the files you need to download in order for my program to work properly.
+- Hangman_Words.py__are the files you need to download in order for my program to work properly.
 ## Flow Chart for this game
 ![Hangman Flow Chart](Hangman-Flow-Chart.png)
 ## How my hangman game works line by line
