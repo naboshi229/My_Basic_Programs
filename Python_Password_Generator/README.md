@@ -1,6 +1,8 @@
 # Python_Password_Generator
 ## Description
 This is program generates random string of characters using user's input as an quantity.
+## Quick note
+Python_Password_Generator.py is the only file you need in order for my program to work.
 ## How my program works line by line
 - I imported random module for this which allowed me to use random.choice and random.shuffle methods.
 - I executed list of letters, numbers and symbols containg all of characters used for making random passwords by my program. I exectued quan_of_letters, quan_of_symbols and quan_of_numbers that will hold integer number variable as an user's input for quantity of letters, numbers and symbols. Lastly I executed password_list as a list that will store all of randomly generated characters for my result which is password.
