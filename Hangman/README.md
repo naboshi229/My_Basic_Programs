@@ -11,7 +11,7 @@ This is a game where user needs to guess letter by letter randomly generatedword
 ## How my hangman game works line by line
 - Firstly I imported module random, then logo and stage (from Hangman_Art.py file) and world_list from (from Hangman_Words.py file).
 - chosen_word stores randomly chose by program variable from list word_list (from Hangman_Words.py file).
-- (display) is set to blank (no character) string, word_length is a length of the previosuly chosen word from list,end_of_game is set to False and lives are assigned to integer number 6.
+- display is set no character string, word_length is a length of the previosuly chosen word from list,end_of_game is set to False and lives are assigned to integer number 6.
 - Then program prints logo from the previosuly imported variable logo (from Hangman_Art.py file).
 - In for loop that is in range of the word_length variable, I've added "_" blank spots to the display list in order to show user the encrypted word to guess with proper length.
 - After that there is a while loop which works while end_of_game is assigned to false (I used "not" and value "False" to make my program more clear).
