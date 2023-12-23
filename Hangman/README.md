@@ -1,6 +1,6 @@
 # Hangman
 ## Description
-This is a game where user needs to guess letter by letter randomly generatedwords by program from Hangman_Words.py file.
+This is a game where user needs to guess letter by letter randomly generated words by program from Hangman_Words.py file.
 ## Quick note
 - Hangman.py
 - Hangman_Art.py
