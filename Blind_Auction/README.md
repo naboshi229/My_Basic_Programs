@@ -1,6 +1,6 @@
 # Blind_Auction
 ## Description
-This program imitates blind auction.
+This program imitates blind auction. Taking various names and bids in loop. Printing the winner of the auction with the highest bid at the end.
 ## Quick note
 - Blind_Auction.py
 - Blind_Auction_ART.py
