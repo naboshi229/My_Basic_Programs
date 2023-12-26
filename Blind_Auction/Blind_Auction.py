@@ -15,7 +15,7 @@ def Find_Highest_Bidder(Bidding_Record):
             Highest_Bid = Bid_Amount
             Winner = Bidder
     print(f"The winner is {Winner} with a bid of ${Highest_Bid}!\n")
-    input("(Press anything to close the program)")
+    input("(Press enter to close the program)")
 
 while not Bidding_Finished:
     Name = input("What is your name?: ")
