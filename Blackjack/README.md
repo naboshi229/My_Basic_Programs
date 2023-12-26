@@ -1,6 +1,6 @@
 ### Blackjack
 ## Description
-[Blackjack](https://en.wikipedia.org/wiki/Blackjack) game wrote in python. User plays againt computer.
+[Blackjack](https://en.wikipedia.org/wiki/Blackjack) game that I wrote in python. User plays againt computer.
 ## Quick note
 - Blackjack.py
 - Blackjack_ART.py
