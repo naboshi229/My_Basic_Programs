@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T16:05:09.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kfFSmsGEfjrWaW6fDrOQ" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T16:07:09.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QQ6hkuee0FoeNQpZH1HQ" version="22.1.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2336" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2193" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -292,7 +292,7 @@
         <mxCell id="atiUJJUeGJs7t_3icJFp-72" value="If the ace counts as a 1&lt;br&gt;instead of 11. Is user&#39;s score&lt;br&gt;still over 21?" style="rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="740" y="347.5" width="180" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="atiUJJUeGJs7t_3icJFp-73" value="&lt;font color=&quot;#b85450&quot;&gt;No&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#000000;exitX=0.5;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="atiUJJUeGJs7t_3icJFp-72" target="atiUJJUeGJs7t_3icJFp-16">
+        <mxCell id="atiUJJUeGJs7t_3icJFp-73" value="&lt;font color=&quot;#b85450&quot;&gt;No&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#000000;exitX=0.5;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="atiUJJUeGJs7t_3icJFp-72" target="atiUJJUeGJs7t_3icJFp-16">
           <mxGeometry x="-0.9617" y="20" relative="1" as="geometry">
             <mxPoint x="540" y="480" as="targetPoint" />
             <mxPoint x="810" y="492.495" as="sourcePoint" />
@@ -343,7 +343,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="atiUJJUeGJs7t_3icJFp-87" value="User has&lt;br&gt;Blackjack" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" vertex="1" connectable="0" parent="atiUJJUeGJs7t_3icJFp-86">
+        <mxCell id="atiUJJUeGJs7t_3icJFp-87" value="User has&lt;br&gt;Blackjack" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;fontStyle=0" vertex="1" connectable="0" parent="atiUJJUeGJs7t_3icJFp-86">
           <mxGeometry x="-0.6469" y="-1" relative="1" as="geometry">
             <mxPoint x="54" y="-1" as="offset" />
           </mxGeometry>
