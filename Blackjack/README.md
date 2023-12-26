@@ -1,4 +1,4 @@
-### Blackjack
+# Blackjack
 ## Description
 [Blackjack](https://en.wikipedia.org/wiki/Blackjack) game that I wrote in python. User plays againt computer.
 ## Quick note
