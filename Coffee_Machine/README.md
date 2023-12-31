@@ -1,6 +1,6 @@
  # Coffee_Machine
  ## Description
- A simple coffee machine which asks user for type of coffee and money. Then machine uses the ingridients stored in data in another file.
+ A simple coffee machine which asks user for type of coffee and amount of money. Then machine uses the ingridients stored in another file.
  ## Quick note
  - Coffee_Machine.py
  - Coffee_Machine_DATA.py
