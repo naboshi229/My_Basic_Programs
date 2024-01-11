@@ -9,4 +9,4 @@ Both players can't press buttons at the same time. Will be fixed in the future! 
 - paddle.py
 - scoreboard.py
 ### Every mentioned file above needs to be in the same dictionary!!! Otherwise my program/game will not work!!!
-<img src ='pong_screenshot.png' width='500'>
+<img src ='pong_screenshot.png' width='700'>
