@@ -8,5 +8,5 @@ Both players can't press buttons at the same time. Will be fixed in the future! 
 - ball.py
 - paddle.py
 - scoreboard.py
-### $${\color{red}Every mentioned file above needs to be in the same dictionary!!! Otherwise my program/game will not work!!!}$$
+### $${\color{red}Every \space mentioned \space file \space above \space needs \space to \space be \space in \space the \space same \space dictionary!!! \space Otherwise \space my \space program/game \space will \space not \space work!!!}$$
 <img src ='pong_screenshot.png' width='700'>
