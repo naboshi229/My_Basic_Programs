@@ -8,5 +8,5 @@ Both players can't press buttons at the same time. Will be fixed in the future! 
 - ball.py
 - paddle.py
 - scoreboard.py
-<span style='color: red'> Every mentioned file above needs to be in the same dictionary!!! Otherwise my program/game will not work!!! </span>
+## <code style='color: red'> Every mentioned file above needs to be in the same dictionary!!! Otherwise my program/game will not work!!! </code>
 <img src ='pong_screenshot.png' width='700'>
