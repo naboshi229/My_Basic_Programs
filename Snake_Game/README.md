@@ -7,4 +7,4 @@
 - food.py
 - scoreboard.py
 ### !!! main.py is only file that you need to open to start my game
-<img src ='cute_snake.png' width='150'>
+<img src ='./image/cute_snake.png' width='150'>
