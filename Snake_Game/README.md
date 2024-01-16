@@ -6,4 +6,4 @@
 - snake.py
 - food.py
 - scoreboard.py
-<img src ='./image/cute_snake.png' width='400'>
+<img src ='./image/cute_snake.png' width='200'>
