@@ -6,6 +6,6 @@ Improved version of my previous [Snake Game](https://github.com/naboshi229/My_Ba
 - food.py
 - scoreboard.py
 ### Every file needs to be in the same dictionary!!! Otherwise my game will not work!!! >:c
-<img src ='better_snake_game_screenshot1.png' width='700'>
-<img src ='better_snake_game_screenshot2.png' width='700'>
-<img src ='cute_snake.png' width='150'>
+<img src ='./screenshots/better_snake_game_screenshot1.png' width='700'>
+<img src ='./screenshots/better_snake_game_screenshot2.png' width='700'>
+<img src ='./screenshots/cute_snake.png' width='150'>
