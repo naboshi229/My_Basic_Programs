@@ -2,9 +2,8 @@
 ## Description
 [Classic Snake Game](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) written in python. I used [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) to make my program less cluttered. Position of the food is completely random and snake increases its size after eating. There is also a scoreboard that keeps track of user's score.
 ## What you need to download in order for my small game to work:
-- main.py
+- main.py (Only file that you need to open in order to play.)
 - snake.py
 - food.py
 - scoreboard.py
-### !!! main.py is only file that you need to open to start my game
-<img src ='./image/cute_snake.png' width='150'>
+<img src ='./image/cute_snake.png' width='400'>
