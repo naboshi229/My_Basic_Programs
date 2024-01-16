@@ -7,5 +7,5 @@ This game was inspired by [Crossy Road](https://en.wikipedia.org/wiki/Crossy_Roa
 - car_manager.py
 - scoreboard.py
 ### Every of the mentioned files above needs to be in the same dictionary (folder)!!! Otherwise my game will not work!!!
-<img src = 'turtle_crossing_screenshot_1.png' width='700'>
-<img src = 'turtle_crossing_screenshot_2.png' width='700'>
+<img src = './screenshots/turtle_crossing_screenshot_1.png' width='700'>
+<img src = './screenshots/turtle_crossing_screenshot_2.png' width='700'>
