@@ -1,7 +1,7 @@
 import random
-import ASCII_rps
+import ascii_rps
 
-game_images = [ASCII_rps.rock, ASCII_rps.paper, ASCII_rps.scissors]
+game_images = [ascii_rps.rock, ascii_rps.paper, ascii_rps.scissors]
 
 while True:
     try:
