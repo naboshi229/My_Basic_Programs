@@ -1,4 +1,4 @@
-from Coffee_Machine_DATA import MENU, resources
+from coffee_machine_data import MENU, resources
 
 
 def is_resource_sufficient(order_ingredients):
