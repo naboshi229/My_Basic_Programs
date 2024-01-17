@@ -1,7 +1,6 @@
 # Rock Paper Scissors RPS
-## Descritiopn
 Short an easy game of rock, paper and sicssors that I think everybody knows.
-## Quick note
+## What you need to download:
 - main.py
 - ascii_rps.py
 ### These are the files you need to download in order for my program to work properly.
