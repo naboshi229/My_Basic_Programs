@@ -11,7 +11,7 @@ all_voivodeships = data.voivodeship.to_list()
 guessed_voivodeships = []
 
 while len(guessed_voivodeships) < 16:
-    answer_voivodeship = screen.textinput(title=f'{len(guessed_voivodeships)}/17 Voivodeships Correct',
+    answer_voivodeship = screen.textinput(title=f'{len(guessed_voivodeships)}/16 Voivodeships Correct',
                                           prompt="What's another voivodeship's name?").title()
     if answer_voivodeship == "Exit":
         missing_voivodeships = []
