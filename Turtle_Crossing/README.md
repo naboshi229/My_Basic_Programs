@@ -1,4 +1,4 @@
-# Turtle_Crossing
+# Turtle Crossing
 
 <img src = './screenshots/turtle_crossing_screenshot_1.png' width='700'>
 <img src = './screenshots/turtle_crossing_screenshot_2.png' width='700'>
