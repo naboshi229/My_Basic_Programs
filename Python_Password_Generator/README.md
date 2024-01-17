@@ -1,4 +1,4 @@
-# Python_Password_Generator
+# Python Password Generator
 ## Description
 This is program generates random string of characters using user's input as an quantity.
 ## What you need to download:
