@@ -1,7 +1,7 @@
 # Quiz Game
 ## Description
 Simple quiz game that was written in OOP (Object Oriented Programming) style.
-## Quick note
+## What you need to download:
 - main.py
 - quiz_brain.py
 - question_model.py
