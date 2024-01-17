@@ -1,4 +1,4 @@
-from Calculator_ART import logo
+from calculator_art import logo
 def add(n1, n2):
     """Adds one number to another"""
     return n1 + n2
