@@ -3,7 +3,7 @@ Game in which player needs to guess all of the 16 Poland's Voivodeships. Every n
 ## What you need to download?
 - main.py (the only file that user needs to open in order to start a game)
 - 16_voivodeship.csv
-- voivodeships_Poland
+- voivodeships_Poland.gif
 ### Every of the mentioned file above has to be in the same dictionary!!! Otherwise my program will not work!!!
 <img src='./screenshots/poland_voivodeships_guesser_screenshot1.png' width='700'>
 <img src='./screenshots/poland_voivodeships_guesser_screenshot2.png' width='700'>
