@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors-RPS-
+# Rock Paper Scissors RPS
 ## Descritiopn
 Short an easy game of rock, paper and sicssors that I think everybody knows.
 ## Quick note
