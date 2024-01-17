@@ -1,7 +1,6 @@
 # Higher Lower
-## Description
 A small game in which user tries his best to guess who has more followers on instagram.
-## Quick note
+## What you need to download:
 - main.py
 - higher_lower_art.py
 - higher_lower_data.py
