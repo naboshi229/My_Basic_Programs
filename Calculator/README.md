@@ -1,5 +1,4 @@
 # Calculator
-## Description
 This a working calculator in which user can add, substract, multiply, divide and power any number.
 ## Quick note
 - main.py
