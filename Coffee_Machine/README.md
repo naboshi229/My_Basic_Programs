@@ -1,5 +1,4 @@
- # Coffee_Machine
- ## Description
+ # Coffee Machine
  A simple coffee machine which asks user for type of coffee and amount of money. Then machine uses the ingridients stored in another file.
  ## Quick note
  - main.py
