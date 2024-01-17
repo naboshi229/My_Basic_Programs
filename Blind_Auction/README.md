@@ -1,4 +1,4 @@
-# Blind_Auction
+# Blind Auction
 ## Flow Chart for this program
 
 <img src='./flow_chart/Blind_Auction_Flow-Chart.png' width='700'>
