@@ -10,6 +10,3 @@ A simple program that takes names from "./Input/Names/invited_names.txt" and put
 - Input (Folder with all of the content)
 - Output (Folder with all of the content)
 ### | main.py , Input (Folder with content) , Output (Folder with content) | Needs to be in the same dictionary!!! Otherwise my program will not work!!!
-<img src ='./screenshots/invited_names_screenshot.png' width='500'>
-<img src ='./screenshots/starting_letter_screenshot.png' width='500'>
-<img src ='./screenshots/example_screenshot.png' width='500'>
