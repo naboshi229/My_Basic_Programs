@@ -1,6 +1,6 @@
 import random, os
-from Higher_Lower_ART import logo, vs
-from Higher_Lower_DATA import data
+from higher_lower_art import logo, vs
+from higher_lower_data import data
 def format_data(account):
     """Format the account data into printable format."""
     account_name = account["name"]
