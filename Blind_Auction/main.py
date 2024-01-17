@@ -1,7 +1,7 @@
 import os
 import sys
 
-from Blind_Auction_ART import logo
+from blind_auction_art import logo
 print(logo)
 
 Bids = {}
