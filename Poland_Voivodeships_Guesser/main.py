@@ -14,13 +14,12 @@ while len(guessed_voivodeships) < 16:
     answer_voivodeship = screen.textinput(title=f'{len(guessed_voivodeships)}/16 Voivodeships Correct',
                                           prompt="What's another voivodeship's name?").title()
     if answer_voivodeship == "Exit":
-        missing_voivodeships = []
-        for voivodeship in all_voivodeships:
-            if voivodeship not in guessed_voivodeships:
-                missing_voivodeships.append(voivodeship)
+        missing_voivodeships = [voivodeship for voivodeship in all_voivodeships if voivodeship not in
+                                guessed_voivodeships]
         new_data = pandas.DataFrame(missing_voivodeships)
-        new_data.to_csv('voivodeships_to_learn.csv')
+        new_data.to_csv('voivodeships_to_learn.txt')
         break
+
     if answer_voivodeship in all_voivodeships:
         guessed_voivodeships.append(answer_voivodeship)
         t = turtle.Turtle()
