@@ -8,4 +8,4 @@ This is a game where user can try his best to guess randomly generated words.
 - main.py
 - hangman_art.py
 - hangman_words.py
-### Every file needs to be in the same dictionary!!! Otherwise my game will not work!!!
+### Every file needs to be in the same dictionary!!! Otherwise my program will not work!!!
