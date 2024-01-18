@@ -9,5 +9,5 @@ Improved version of my previous [Snake Game](https://github.com/naboshi229/My_Ba
 - snake.py
 - food.py
 - scoreboard.py
-### Every file needs to be in the same dictionary!!! Otherwise my game will not work!!!
+### Every file needs to be in the same dictionary!!! Otherwise my program will not work!!!
 <img src ='./screenshots/cute_snake.png' width='150'>
