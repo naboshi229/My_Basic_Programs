@@ -3,4 +3,4 @@ This a working calculator in which user can add, substract, multiply, divide and
 ## What you need to download:
 - main.py
 - calculator_art.py
-### Every file needs to be in the same dictionary!!! Otherwise my game will not work properly!!!
+### Every file needs to be in the same dictionary!!! Otherwise my program will not work properly!!!
