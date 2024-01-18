@@ -3,4 +3,4 @@
  ## What you need to download:
  - main.py
  - coffee_machine_data.py
- ### Every file needs to be in the same dictionary!!! Otherwise my game will not work!!!
+ ### Every file needs to be in the same dictionary!!! Otherwise my program will not work!!!
