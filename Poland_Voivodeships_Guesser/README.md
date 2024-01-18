@@ -8,4 +8,4 @@ Game in which player needs to guess all of the 16 Poland's Voivodeships. Every n
 - main.py (the only file that user needs to open in order to start a game)
 - 16_voivodeship.csv
 - voivodeships_Poland.gif
-### Every of the mentioned file above has to be in the same dictionary!!! Otherwise my program will not work!!!
+### Every file needs to be in the same dictionary!!! Otherwise my program will not work!!!
