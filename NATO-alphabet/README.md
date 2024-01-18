@@ -1,7 +1,7 @@
 # NATO Alphabet Converter
 
-<img src ='./screenshots/NATO-alphabet_screenshot1' width='200'>
-<img src ='./screenshots/NATO-alphabet_screenshot2' width='200'>
+<img src ='./screenshots/NATO-alphabet_screenshot1.png' width='200'>
+<img src ='./screenshots/NATO-alphabet_screenshot2.png' width='200'>
 
 Short program that changes the user's input (word) to [NATO Phonetic Alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet). Program uses [pandas library](https://en.wikipedia.org/wiki/Pandas_(software)) to take and use value from 'nato_phonetic_alphabet.csv' file.
 
