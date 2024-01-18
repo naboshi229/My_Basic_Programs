@@ -7,4 +7,4 @@ This program imitates blind auction. Taking various names and bids in loop. Prin
 ## What you need to download:
 - main.py
 - blind_auction_art.py
-### These are the files you need to download in order for my program to work properly.
+### Every file needs to be in the same dictionary!!! Otherwise my game will not work!!!
