@@ -6,4 +6,4 @@
 ## What you need to download:
 - main.py
 - blackjack_art.py
-### Every file needs to be in the same dictionary!!! Otherwise my game will not work properly!!!
+### Every file needs to be in the same dictionary!!! Otherwise my program will not work properly!!!
