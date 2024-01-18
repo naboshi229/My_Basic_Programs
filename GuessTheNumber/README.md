@@ -1,4 +1,4 @@
-# GuessTheNumber
+# Guess the Number
 A quick game in which user needs to guess the random number. There are two difficulty level to choose, easy and hard.
 ## What you need to download:
 - main.py
