@@ -12,7 +12,7 @@
 
 <img src='./screenshots/Password_Manager_screenshot4.png' width='700'>
 
-### When user succesfully fill all of the empty entries and hit "Add" Button, the window will pop-out with the title of the website name / link. Showing user's entries and asking if it is ok to save them.
+### When user succesfully fill all of the empty entries and hit "Add" Button, the window will pop-out with the title of the website name / link. Showing user's entries and asking if it is ok to save them. Generated password will be copied to the clipboard, user can paste it by hitting "CTRL+V" (paste shortcut). I used [pyperclip](https://pypi.org/project/pyperclip/) for that.
 
 <img src='./screenshots/Password_Manager_screenshot5.png' width='700'>
 
