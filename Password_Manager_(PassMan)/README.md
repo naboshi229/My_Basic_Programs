@@ -25,6 +25,6 @@ I used [pyperclip](https://pypi.org/project/pyperclip/) for that.
 
 User's entries will be saved in a data.txt file, using always the same format as in the screenshot above.
 
-> [!What you need to download:]
-- main.py (Only file that needs to be open, in order to start my program)
-- logo.png (Just a logo with a catching name for my program)
+> [!WARNING]What you need to download:
+>- main.py (Only file that needs to be open, in order to start my program)
+>- logo.png (Just a logo with a catching name for my program)
