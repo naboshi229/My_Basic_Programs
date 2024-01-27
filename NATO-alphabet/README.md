@@ -2,7 +2,7 @@
 
 <img src ='./screenshots/NATO-alphabet_screenshot1.png' width='450'>
 <img src ='./screenshots/NATO-alphabet_screenshot2.png' width='450'>
-<img src ='./screenshots/NATO-alphabet_screenshot3.png' width='450'>
+<img src ='./screenshots/NATO-alphabet_screenshot3.png' width='250'>
 
 Short program that changes the user's input (word) to [NATO Phonetic Alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet). Program uses [pandas library](https://en.wikipedia.org/wiki/Pandas_(software)) to take and use values from 'nato_phonetic_alphabet.csv' file.
 
