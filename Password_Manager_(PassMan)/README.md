@@ -29,9 +29,15 @@
 > [!IMPORTANT]
 > User's entries will be saved in a data.json file, using always the same format as in the screenshot above.
 
-<img src='./screenshots/Password_Manager_screenshot5.png' width='700'>
 <img src='./screenshots/Password_Manager_screenshot6.png' width='700'>
+
+> [!NOTE]
+> When user has typed existing data in website entry and has pressed search button the window will pop-out with the title of the website containing details of login (email and password)
+
 <img src='./screenshots/Password_Manager_screenshot7.png' width='700'>
+
+> [!CAUTION]
+> If user tries to search for details of not existing data, window that is in the screenshot above will pop-out.
 
 > [!WARNING]
 > What you need to download:
