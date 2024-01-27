@@ -27,7 +27,11 @@
 <img src='./screenshots/Password_Manager_screenshot5.png' width='700'>
 
 > [!IMPORTANT]
-> User's entries will be saved in a data.txt file, using always the same format as in the screenshot above.
+> User's entries will be saved in a data.json file, using always the same format as in the screenshot above.
+
+<img src='./screenshots/Password_Manager_screenshot5.png' width='700'>
+<img src='./screenshots/Password_Manager_screenshot6.png' width='700'>
+<img src='./screenshots/Password_Manager_screenshot7.png' width='700'>
 
 > [!WARNING]
 > What you need to download:
