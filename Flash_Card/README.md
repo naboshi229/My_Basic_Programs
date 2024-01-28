@@ -1,10 +1,10 @@
 # Flash Card
 
-<img src ='./screenshots/Flash_Card_screenshot1.png' width='700'>
+<img src ='./screenshots/Flash_Card_screenshot1.png' width='450'>
 
 Flash card application that was written fully in python. Firstly the front of the flash card appears containing a polish word, after 3 seconds the english equivalent will be shown (next screenshots). I used [pandas library](https://pandas.pydata.org/) to read an create a new .csv flie containing app's data.
 
-<img src ='./screenshots/Flash_Card_screenshot2.png' width='700'>
+<img src ='./screenshots/Flash_Card_screenshot2.png' width='450'>
 
 Program firstly uses database "polish_words.csv" stored in data folder.
 
