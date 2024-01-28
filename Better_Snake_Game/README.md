@@ -1,7 +1,7 @@
 # Better Snake Game
 
-<img src ='./screenshots/better_snake_game_screenshot1.png' width='700'>
-<img src ='./screenshots/better_snake_game_screenshot2.png' width='700'>
+<img src ='./screenshots/better_snake_game_screenshot1.png' width='450'>
+<img src ='./screenshots/better_snake_game_screenshot2.png' width='450'>
 
 Improved version of my previous [Snake Game](https://github.com/naboshi229/My_Basic_Programs/tree/main/Snake_Game). High Score is now saved in a file data.txt, when you open a game once again you have your previous high score shown.
 ## What you need to download:
