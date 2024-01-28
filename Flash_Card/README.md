@@ -8,11 +8,11 @@ Flash card application that was written fully in python. Firstly the front of th
 
 Program firstly uses database "polish_words.csv" stored in data folder.
 
-<img src ='./screenshots/Flash_Card_screenshot3.png' width='700'>
+<img src ='./screenshots/Flash_Card_screenshot3.png' width='300'>
 
 If user presses "✔" button shown, chosen randomly word will be removed from newly created dictionary, after pressing "❌" button that word will stay in a newly created dictionary. After closing a program a new database named "words_to_lean.csv" will be created in data folder, containing words that user marked as unknown (via "❌" button).
 
-<img src ='./screenshots/Flash_Card_screenshot4.png' width='700'>
+<img src ='./screenshots/Flash_Card_screenshot4.png' width='350'>
 
 > [!WARNING]
 > What you need to download:
